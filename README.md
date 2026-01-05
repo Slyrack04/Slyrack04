@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Slyrack04
-- 👀 I’m interested in Networking and audio equip
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Audio stuff
-- 📫 How to reach me: you dont
-- 😄 Pronouns: he/him
+Doing weird shit with Lighting, Video and Audio
 
 <!---
 Slyrack04/Slyrack04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
